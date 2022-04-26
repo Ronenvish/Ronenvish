@@ -55,8 +55,6 @@ Coming soon!
 
 <!-- #### Profile Visits  -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
-
 <!-- <details>
 <summary>
   More stuff about me
